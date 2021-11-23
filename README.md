@@ -28,3 +28,10 @@
 | 2_Design | Documents specifying design details |
 | 3_Implementation | All code and documentation |
 | 4_testPlanAndOutput | Documents with test plans and procedures |
+
+## Learning Resources
+
+- markdownCheatsheet
+- markdownBasics
+- git inspector
+- github workflow
