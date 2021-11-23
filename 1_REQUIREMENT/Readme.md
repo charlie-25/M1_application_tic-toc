@@ -148,10 +148,15 @@ This classic game contribute to the children's development growth in numerous wa
 
 ## LLR
 
-| LLR | DESCRIPTION |
-| ------------- | -----------|
-| LLR_1 | game play |
-| LLR_2 | hand eye cordination |
-| LLR_3 | understanding |
+| LLR | DESCRIPTION | HLR_ID |
+| ------------- | -----------| ---------- |
+| LLR_1 | If the user presses '1', he'll be play with 'X'. | HR01 |
+| LLR_2 | If the user is playing with 'X', he'll get the first turn. | HR01 |
+| LLR_3 | If the user presses '2', he'll be play with 'O'. | HR02 |
+| LLR_4 | If the user is playing with 'O', he'll get the second turn. | HR02 |
+| LLR_5 | If the user presses '3', it'll exit the game. | HR03 |
+| LLR_6 | If the computer gets 3 Xs or 3 Os in vertical,horizontal or diagonal row, User will lose. | HR03 |
+| LLR_7 | If the user gets 3 Xs or 3 Os(as per his choice), in vertical,horizontal or diagonal row, he'll win. | HR04 |
+| LLR_8 | If the total number of moves, i.e., 9 moves have been completed and neithe the user nor the computer has won, it'll end up in a draw. | HR04 |
 
 
