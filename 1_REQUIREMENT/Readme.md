@@ -132,22 +132,19 @@ This classic game contribute to the children's development growth in numerous wa
 
 # SWOT Analysis
 
-## Advantage
+![image](https://user-images.githubusercontent.com/94218113/143097596-3a5d4746-aca6-4b4b-9929-8c5402a2e30a.png)
 
-These tic-tac-toe panels improve hand-eye coordination and encourage better social interaction by better collaborative play. And children shouldn't just play with other children. Parents also have a role in the playground more than being supervisors.
-
-## Disadvantage
-
-- Students may choose an easier path instead of finding a more challenging route. 
-- Challenging on instructors and teachers to construct and grade all the different types of assignments.
 
 ## HLR
 
 | HLR | DESCRIPTION |
 | --------------- | --------------- |
-| HLR_1 | development growth| 
-| HLR_2 | problem solving | 
-| HLR_3 | strategy development|
+| HLR_1 | User shall be able to choose 'X' to play | 
+| HLR_2 | User shall be able to choose 'O' to play | 
+| HLR_3 | User shall be able to Exit the game |
+| HLR_4 | User shall lose |
+| HLR_4 | User shall win |
+| HLR_5 | User shall end up in a Draw situation |
 
 ## LLR
 
