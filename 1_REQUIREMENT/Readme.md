@@ -15,7 +15,26 @@ The tic-tac-toe game is played on a 3x3 grid the game is played by two players, 
 
 ## State of art
 
-yet to done
+### EARLIER
+
+- We have not included several elements to make this simple game more enjoyable.
+
+- Users cannot choose to play a cheerful piano tune in the background.
+
+- You can not select your own avatar.
+
+- only two player allow to play at a time.
+
+
+### MODERN
+
+- We have included several elements to make this simple game more enjoyable.
+
+- Users can choose to play a cheerful piano tune in the background. Background music and sound effects can of course be turned off in the Options.
+
+- You can also select your own avatar. There are currently 8 to choose from, 4 male and 3 female characters.
+
+
 
 ## Rules
 
@@ -49,7 +68,14 @@ This classic game contribute to the children's development growth in numerous wa
 
 # SWOT Analysis
 
-yet to done
+## Advantage
+
+These tic-tac-toe panels improve hand-eye coordination and encourage better social interaction by better collaborative play. And children shouldn't just play with other children. Parents also have a role in the playground more than being supervisors.
+
+## Disadvantage
+
+- Students may choose an easier path instead of finding a more challenging route. 
+- Challenging on instructors and teachers to construct and grade all the different types of assignments.
 
 ## HLR
 
