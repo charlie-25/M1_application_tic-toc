@@ -134,6 +134,7 @@ This classic game contribute to the children's development growth in numerous wa
 
 ![image](https://user-images.githubusercontent.com/94218113/143097596-3a5d4746-aca6-4b4b-9929-8c5402a2e30a.png)
 
+# DETAIL REQUIREMENTS
 
 ## HLR
 
