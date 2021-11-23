@@ -98,6 +98,18 @@ This classic game contribute to the children's development growth in numerous wa
 
 - If no one wins, then the game is said to be draw.
 
+## Cost and Features with Time
+
+
+ | TIME | FEATURES | COST |
+ | ---------- | ---------- |
+ | 1558 | Started as a pen and paper game in Roman Emire, earlier it was called tic tac. | Free (Pen and Paper) |
+ | 1952 | In 1952, OXO (or Noughts and Crosses), developed by British computer scientist Sandy Douglas for the EDSAC computer at the University of Cambridge, became one of the first known video games. | $5 |
+ 
+| 2000-2021 | After Digitalisation, this game is almost free for everyone on multiple mediums. | Cost effective |
+
+
+
 # SWOT Analysis
 
 ## Advantage
@@ -112,8 +124,8 @@ These tic-tac-toe panels improve hand-eye coordination and encourage better soci
 ## HLR
 
 | HLR | DESCRIPTION |
-| --------------- | --------------- | 
-| HLR_1 | development growth| | 
+| --------------- | --------------- |
+| HLR_1 | development growth| 
 | HLR_2 | problem solving | 
 | HLR_3 | strategy development|
 
