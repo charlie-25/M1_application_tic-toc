@@ -106,7 +106,27 @@ This classic game contribute to the children's development growth in numerous wa
 | 1952 | In 1952, OXO (or Noughts and Crosses), developed by British computer scientist Sandy Douglas for the EDSAC computer at the University of Cambridge, became one of the first known video games | $5 | 
 | 2000-2021 | After Digitalisation, this game is almost free for everyone on multiple mediums| Cost effectiv |
 
+## Defining Our System
 
+![image](https://user-images.githubusercontent.com/94218113/143097068-f1b548dc-0e64-47b8-a1e3-e5778f96ee5a.png)
+
+## Explanation:
+
+- The game starts giving you three input options(1, 2, 3):
+
+      - means you play using 'X'.
+      - means you play using 'O'.
+      - means you exit the game.
+
+- The game ends when:
+
+         - It is in a draw situation , i.e, a total of 9 moves have been completed and novody has won.
+         - You win.
+         - The computer wins.
+          
+- The game continues in the beginning if the check for draw is false.
+- Then it checks if anyone has won yet.
+- If not, then it again checks if it is a draw situation.
  
 
 
