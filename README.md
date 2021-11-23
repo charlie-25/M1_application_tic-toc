@@ -14,3 +14,5 @@
 
 ## CI
 
+[![CI](https://github.com/charlie-25/M1_game_tic-toc/actions/workflows/main.yml/badge.svg)](https://github.com/charlie-25/M1_game_tic-toc/actions/workflows/main.yml)
+
