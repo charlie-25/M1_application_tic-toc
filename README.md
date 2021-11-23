@@ -16,3 +16,6 @@
 
 [![CI](https://github.com/charlie-25/M1_game_tic-toc/actions/workflows/main.yml/badge.svg)](https://github.com/charlie-25/M1_game_tic-toc/actions/workflows/main.yml)
 
+# SDLC Activity Based Learning
+
+![image](https://user-images.githubusercontent.com/94218113/143090089-6793254c-7422-4c42-aeea-ae2de4a7805d.png)
