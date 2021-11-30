@@ -18,7 +18,7 @@
 
 # SDLC Activity Based Learning
 
-![image](https://user-images.githubusercontent.com/94218113/143090089-6793254c-7422-4c42-aeea-ae2de4a7805d.png)
+[![image](https://user-images.githubusercontent.com/94218113/143090089-6793254c-7422-4c42-aeea-ae2de4a7805d.png)
 
 ## Folder Structure
 
